@@ -3,7 +3,7 @@ Analyze data age vs. internal processing time.SQL
 
 Check only specified fields in JSON for error and find which customer.py
 
-Compare data from database and CSV and generate report.py
+Compare transaction data from database and CSV and generate report.py
 
 Convert Excel to CSV and compare with database records.py
 
